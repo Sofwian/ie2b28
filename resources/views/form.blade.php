@@ -10,9 +10,10 @@
 
 <html lang = "ja">
     <head>
-        <title>form</title>
+        <title>老後資金シミュレーター</title>
     </head>
     <body>
+
         <input type="radio" name = "gender" value = "male">男性
         <input type="radio" name = "gender" value = "female">女性<br>
         生年月日：
